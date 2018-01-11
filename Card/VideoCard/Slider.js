@@ -2,6 +2,10 @@ import React from "react";
 import ReactDOM from 'react-dom';
 import styled from "styled-components";
 
+//GET RID OF THIS JUNK
+// TRY THIS
+// https://codepen.io/seanstopnik/pen/CeLqA
+
 const SliderWrapper = styled.div`
 	width: 100%;
 	height: 100%;
